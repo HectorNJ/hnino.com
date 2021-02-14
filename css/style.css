@@ -763,3 +763,11 @@ header .intro-text {
 	padding: 10px 100px 20px 20px;
 }
 }
+
+
+/* prettyPhoto custom */
+
+div.pp_default .pp_description {
+	text-justify: inter-word;
+	text-align: justify;
+}
