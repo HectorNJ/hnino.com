@@ -97,4 +97,11 @@ $('#nav').affix({
 
 
 }
+
+function onSubmit(token) {
+  document.getElementById("contactForm").submit();
+}
+
+
+
 main();
